@@ -37,7 +37,7 @@ Actualmente trabajo en proyectos relacionados con:
 * Desarrollo de aplicaciones escalables
 * Seguridad informática
 * Bases de datos distribuidas
-* Optimización de sistemas web
+* Java
 
 
 ## 📫 Contacto
