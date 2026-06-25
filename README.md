@@ -3,7 +3,7 @@
 
 ## 💻 Sobre mí
 
-Soy estudiante y desarrollador apasionado por la tecnología, el desarrollo web y las bases de datos. Me gusta crear soluciones prácticas utilizando tecnologías como PHP, MySQL, HTML, CSS, JavaScript y proximamente Java.
+Soy de desarrollo de software apasionado por la tecnología, el desarrollo web, las bases de datos y el desarrollo de videojuegos. Me gusta crear soluciones prácticas utilizando tecnologías como PHP, MySQL, HTML, CSS, JavaScript y proximamente Java.
 
 Actualmente trabajo en proyectos relacionados con:
 
