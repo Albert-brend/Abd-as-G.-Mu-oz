@@ -31,6 +31,7 @@ Actualmente trabajo en proyectos relacionados con:
 * XAMPP
 * HeidiSQL
 * Visual Studio Code
+* Blender
 * IntellIJ
 
 ## 📚 Actualmente aprendiendo
