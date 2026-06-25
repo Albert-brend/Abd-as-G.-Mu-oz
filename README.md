@@ -1,4 +1,4 @@
-# Abdías-G.-Muñoz
+# Abdías-Muñoz
 # ¡Hola! 👋 Soy Abdías Muñoz
 
 ## 💻 Sobre mí
