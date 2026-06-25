@@ -46,7 +46,6 @@ Actualmente trabajo en proyectos relacionados con:
 
 * GitHub: https://github.com/Albert-brend
 
----
 ##
 > "No cost too great."
 >
