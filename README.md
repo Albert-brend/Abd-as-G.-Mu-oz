@@ -45,6 +45,7 @@ Actualmente trabajo en proyectos relacionados con:
 ## 📫 Contacto
 
 * GitHub: https://github.com/Albert-brend
+* Gmail: munozabdiasgamaliel@gmail.com
 
 ##
 > "No cost too great."
