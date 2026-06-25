@@ -47,4 +47,6 @@ Actualmente trabajo en proyectos relacionados con:
 
 ---
 
-⭐ Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades como desarrollador.
+> *"No cost too great."*
+>
+> — Hollow Knight
